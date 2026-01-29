@@ -247,8 +247,6 @@ TECHNIQUE
 * Constructing and deconstructing OOP classes, Continued   
 * Implementing libraries   
 
-**NO CLASS SESSION - 11/28**
-
 **SESSION 13: [5/7]**    
 TOPIC             
 * Playtesting and Work-in-Progress Critiques for Final Projects  
