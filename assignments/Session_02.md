@@ -1,4 +1,6 @@
-## DUE FRIDAY, 9/12
+### REMINDER: NO CLASS SESSION ON THURSDAY 2/12
+
+## DUE THURSDAY, 2/19
 
 ### **Familiarize Yourself with the following...**        
 Resources on the p5.js website: 
