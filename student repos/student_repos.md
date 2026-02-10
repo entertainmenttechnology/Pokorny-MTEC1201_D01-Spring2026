@@ -23,3 +23,7 @@
 11. [Sho](https://github.com/shorakhim/MTEC-1201_Sho_Spring2026)
 
 12. [Kate](https://github.com/kcrennan/MTEC-1201)
+
+13. [Jai](https://github.com/JJTHEKINGJG/MTECH-1201-JAI-G)
+
+14. 
