@@ -1,4 +1,4 @@
-## Due before class on Friday, 3/12
+## Due before class on Thursday, 3/12
 
 
 ### **Familiarize Yourself with the following...**                
