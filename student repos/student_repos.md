@@ -8,7 +8,7 @@
 
 4. [Jessie](https://github.com/guriphasu/MTECH-1201---Jessie-Chan)
 
-5. [Sky](https://github.com/Sky-evantine/Sky-s-MTECH1201-repo)
+5. [Sky](https://github.com/Sky-evantine/Sky-MTECH-Repo)
 
 6. [Francky](https://github.com/franckydup/MTEC-1201_franckydup_spring2026/tree/main)
 
