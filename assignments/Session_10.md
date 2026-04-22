@@ -28,11 +28,3 @@ _(Important reminder: Some of the older Coding Train videos use "var" for declar
 
 ## **Creative Coding Spotlight...**     
 [Voice Tunnel (architectural scale)](https://www.lozano-hemmer.com/voice_tunnel.php)  by [Rafael Lozano Hemmer](https://www.lozano-hemmer.com)     
-
-  
-  
-  
-
-
-
-  
