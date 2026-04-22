@@ -20,7 +20,7 @@ This will be your final short study before we move into final projects!
 Save the completed sketch as "SS7-[FirstName + Last Initial]" (for example, "SS7-IanP"). Submit to your Github Class Repo **before the beginning of next class on 4/30**.      
 
 ### Final Project Proposal  
-See [final project requirements](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D10-Fall2025/blob/main/assignments/FINAL_PROJECT.md) for details. Submit pdf via DM on Discord (or email) **by Thursday 4/30.**   
+See [Final Project Requirements](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D01-Spring2026/blob/main/assignments/FINAL_PROJECT.md) for details. Submit pdf via DM on Discord (or email) **by Thursday 4/30.**   
 
 ## **Supplemental/Optional:**  
 Review object oriented programming concepts from our class demos as well as these videos from the Coding Train:  

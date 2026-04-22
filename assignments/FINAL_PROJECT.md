@@ -14,7 +14,7 @@ The final project process includes submission of a project proposal and two work
 *  A function or method to start over from the beginning, without exiting the program.     
 *  Attention to concept, participant experience, and visual design.      
 *  As comments at the top of your sketch: your name, title of the work, any user instructions.    
-*  At least 75% original code. **Any borrowed / modified code (any chunk greater than 4 lines) must be clearly attributed** as comments in the sketch with origin of the source code. If borrowed code is from online, include the URL source. If borrowed from a book, include the exact page number. If you received significant help on a section of code from another human, this must be attributed as well (with the person's name). **Unoriginal code without attribution will be considered plagiarism. Code written by AI, whether attributed or not, will not be accepted for this class.** You MUST completely understand any code that you have borrowed and attributed-- if code is too advanced for you to understand, do not use it in your work! Please check with your instructor if you have questions about this.            
+*  At least 80% original code. **Any borrowed / modified code (any chunk greater than 4 lines) must be clearly attributed** as comments in the sketch with origin of the source code. If borrowed code is from online, include the URL source. If borrowed from a book, include the exact page number. If you received significant help on a section of code from another human, this must be attributed as well (with the person's name). **Unoriginal code without attribution will be considered plagiarism. Code written by AI, whether attributed or not, will not be accepted for this class.** You MUST completely understand any code that you have borrowed and attributed-- if code is too advanced for you to understand, do not use it in your work! Please check with your instructor if you have questions about this.            
 
 **Optional / Extra credit:**    
 Integrate a coding technique that we have not covered in class into your project, to research and learn independently. For ideas, scan through the p5.js reference, examples, and libraries, as well as Coding Train demos. Also check out the library options embedded into OpenProcessing. Keep the scope appropriate for the timeframe, something that will add to your project's creative concept and cohesive user experience, rather than overwhelming technical complexity.  
@@ -26,7 +26,7 @@ Integrate a coding technique that we have not covered in class into your project
 *  Start simple. Meet the basic requirements first. Add more flair and finishing touches as time allows for it. 
 *  Save your code (and push to your repo) often, which will create a more detailed version history to refer to.        
 
-**To include in your proposal due Friday 11/21:**
+**To include in your proposal due Thursday 4/30:**
 * A brief description of the concept and experience.
 * Is this work entirely new, or are you building off of prior work? If the latter, specify the prior work you are building off of.  
 * What does it look like? (a sketch would be most helpful here).
@@ -35,11 +35,11 @@ Integrate a coding technique that we have not covered in class into your project
 * Submit your proposal to me as a PDF via **DM on Discord** before our class on 11/21.  
 
 **Due Dates:**
-### Friday, 11/21 - Proposal due
+### Friday, 4/30 - Proposal due
 Submit your proposal to me as a PDF file via **DM on Discord**
-### Friday, 12/5 - Work in Progress Draft 1 due
+### Friday, 5/7 - Work in Progress Draft 1 due
 This sketch must be runnable. You can work on any aspect of your final project, and not all requirements need to be included for the WIP. The WIP should show about a week's worth of development towards the final project (at least 3-5 hours spent outside of class). Save the completed sketch as "Final-WIP1-[FirstName + Last Initial]" (for example, "Final-WIP1_IanP"). Submit to your Github Class Repo.    
-### Friday, 12/12 - Work in Progress Draft 2 due
+### Friday, 5/14 - Work in Progress Draft 2 due
 Again, this sketch should show about a week's worth of additional development towards the final (at least 3-5 hours spent outside of class) and must be runnable. Save the completed sketch as "Final-WIP2-[FirstName + Last Initial]" (for example, "Final-WIP2-IanP"). Submit to your Github Class Repo. 
-### Friday, 12/19 Final Projects due
+### Friday, 5/21 Final Projects due
 Save the completed sketch with file name "Final-[FirstName + Last Initial]" (for example, "Final-IanP"). Submit to your Github Class Repo.     
