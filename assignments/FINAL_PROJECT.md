@@ -32,14 +32,14 @@ Integrate a coding technique that we have not covered in class into your project
 * What does it look like? (a sketch would be most helpful here).
 * For completing your proposed project, are you familiar with all tools and techniques needed? Or are there additional tools or techniques that you need to research and learn? If the latter, please specify.  
 * Create a calendar of tasks. Outline the steps for completing the project, with a proposed week by week timeline, including what you intend to complete for WIP1 and WIP2. Include any potential research or demos to review, sketch iterations, and testing.  
-* Submit your proposal to me as a PDF via **DM on Discord** before our class on 11/21.  
+* Submit your proposal to me as a PDF via **DM on Discord** before our class on 4/30.  
 
 **Due Dates:**
-### Friday, 4/30 - Proposal due
+### THURSDAY, 4/30 - Proposal due
 Submit your proposal to me as a PDF file via **DM on Discord**
-### Friday, 5/7 - Work in Progress Draft 1 due
+### THURSDAY, 5/7 - Work in Progress Draft 1 due
 This sketch must be runnable. You can work on any aspect of your final project, and not all requirements need to be included for the WIP. The WIP should show about a week's worth of development towards the final project (at least 3-5 hours spent outside of class). Save the completed sketch as "Final-WIP1-[FirstName + Last Initial]" (for example, "Final-WIP1_IanP"). Submit to your Github Class Repo.    
-### Friday, 5/14 - Work in Progress Draft 2 due
+### THURSDAY, 5/14 - Work in Progress Draft 2 due
 Again, this sketch should show about a week's worth of additional development towards the final (at least 3-5 hours spent outside of class) and must be runnable. Save the completed sketch as "Final-WIP2-[FirstName + Last Initial]" (for example, "Final-WIP2-IanP"). Submit to your Github Class Repo. 
-### Friday, 5/21 Final Projects due
+### THURSDAY, 5/21 Final Projects due
 Save the completed sketch with file name "Final-[FirstName + Last Initial]" (for example, "Final-IanP"). Submit to your Github Class Repo.     
