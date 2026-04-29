@@ -66,9 +66,9 @@ class Icecream
   //constructor arguments are temporary and used to initialize values inside object
   constructor(tempX, tempY, tempDiameter) 
 	{
-    this.x= tempX;
-    this.y= tempY;
-    this.diameter= tempDiameter;
+    this.x = tempX;
+    this.y = tempY;
+    this.diameter = tempDiameter;
   }
 
   //**methods** 
