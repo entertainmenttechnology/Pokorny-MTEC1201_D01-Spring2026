@@ -37,7 +37,7 @@ function draw()
   if (!playing)
   {
     background(0);
-    text('tap to play oscillator', 20, 50);
+    text('press a key to play oscillator', 20, 50);
   }
   else
   {
