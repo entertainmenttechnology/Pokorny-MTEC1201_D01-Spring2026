@@ -1,4 +1,4 @@
-## Due before class on Wednesday, 5/13
+## Due before class on Thursday, 5/13
 ### **Final Project: Work-In-Progress #2**  
 
 This sketch must be runnable and ready to be playtested at the start of class. Your WIP should now show about two week's worth of development towards the final project (at least 6 to 10 hours spent outside of class).   
